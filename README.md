@@ -1,2 +1,5 @@
-# m-j-prvn-projekt
-toto je muj pokus o prvni projekt v jazyce Python
+# můj-první projekt
+
+## o čem můj projekt je
+
+můj projekt je úplně o niče
